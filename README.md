@@ -8,12 +8,13 @@ Este proyecto configura una app NestJS junto a MongoDB usando Docker y Docker Co
 
 1. Clonar el repositorio:
 
-- git clone https://github.com/espmatdev/desafio5.git
-- cd desafio5
+- git clone https://github.com/espmatdev/desafio5compose.git
+
+- cd desafio5compose
 
 
-2. Construir y levantar:
+2. Levantar:
 
-- docker-compose up --build
+- docker-compose up
 
 - La app estaría accesible desde: http://localhoset:3000
