@@ -15,6 +15,6 @@ Este proyecto configura una app NestJS junto a MongoDB usando Docker y Docker Co
 
 2. Levantar:
 
-- docker-compose up
+- docker-compose up -d
 
 - La app estaría accesible desde: http://localhoset:3000
